@@ -1,5 +1,5 @@
 {
-  "name": "angular-tooltips",
+  "name": "@slackero/angular-tooltips",
   "version": "1.2.3",
   "description": "Angular.js tooltips module.",
   "homepage": "http://720kb.github.io/angular-tooltips",
