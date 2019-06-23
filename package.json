@@ -1,6 +1,6 @@
 {
   "name": "angular-tooltips",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Angular.js tooltips module.",
   "homepage": "http://720kb.github.io/angular-tooltips",
   "main": "index.js",
@@ -13,7 +13,6 @@
     "angular"
   ],
   "scripts": {
-    "precommit": "gulp lint",
     "preversion": "gulp lint",
     "version": "gulp minify && ./tasks/bower-version-bump && git add -A .",
     "postversion": "git push && git push --tags",
